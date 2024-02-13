@@ -3156,4 +3156,9 @@ input, select, textarea {
 		justify-content: center; /*Permet de centrer dans l'axe horizontal*/
 	}
 
-    
+ .center {
+  margin: auto;
+  width: 100%;
+  padding: 5px;
+  list-style-type: none;
+}
